@@ -1,3 +1,3 @@
 @echo off
-javac Main.java
-java Main
+javac App.java
+java App
